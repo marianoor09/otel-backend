@@ -1,0 +1,26 @@
+{"level":"info","message":"Received request to send telemetry Button clicked","traceId":"840f03c9c4e3a84ee8d16350eff10587"}
+{"level":"info","message":"Telemetry response sent","traceId":"840f03c9c4e3a84ee8d16350eff10587"}
+{"level":"info","message":"Received request to send telemetry Add button clicked: Task Added","traceId":"26ab50f3c742ed998bd096d42b92dcce"}
+{"level":"info","message":"Telemetry response sent","traceId":"26ab50f3c742ed998bd096d42b92dcce"}
+{"level":"info","message":"Event received: add_button_click Add button clicked: Task Added","traceId":"dafd68e47e064b3436097f25fb441566"}
+{"level":"info","message":"Event received: list_update List Updated: New task added","traceId":"285acd6fd007e20190b244d1b93d4ff3"}
+{"level":"info","message":"Event received: list_update List Updated: Task removed","traceId":"8ed7eb649ac8020ca95cfb7a14f90a4e"}
+{"level":"info","message":"Event received: delete_button_click Delete button clicked: Task Deleted","traceId":"3a23dc049b6424ed10b77d63a5db1a5c"}
+{"level":"info","message":"Event received: list_update List Updated: New task added","traceId":"2439cac67fa2e97e2125b8f5d2dbf118"}
+{"level":"info","message":"Event received: add_button_click Add button clicked: Task Added","traceId":"161a9ac8c412447f31f6a1c7accb36b2"}
+{"level":"info","message":"Event received: delete_button_click Delete button clicked: Task Deleted","traceId":"e54c49fcc7788ff01680a2698e083cbf"}
+{"level":"info","message":"Event received: list_update List Updated: Task removed","traceId":"ec50d5f744afefa0976d467f6d7c237d"}
+{"level":"info","message":"Event received: list_update List Updated: New task added","traceId":"61c128f8817103c14e597d5d62ac5f5b"}
+{"level":"info","message":"Event received: add_button_click Add button clicked: Task Added","traceId":"5eb1bc240d68e88e49da1c348e10f195"}
+{"level":"info","message":"Event received: add_button_click Add button clicked: Task Added","traceId":"311e0d3873bbd5f08cf46b9c1fe765c1"}
+{"level":"info","message":"Event received: list_update List Updated: New task added","traceId":"13b716f2aae03933b909d80029e72674"}
+{"level":"info","message":"Event received: list_update List Updated: New task added","traceId":"fbc3d75fbf05ca7a6de4c8526ba01372"}
+{"level":"info","message":"Event received: add_button_click Add button clicked: Task Added","traceId":"182360db8ad3d2ae30195f453e5c3d09"}
+{"level":"info","message":"Event received: list_update List Updated: New task added","traceId":"b5103268bc4f5c5b42330a961ffca5c3"}
+{"level":"info","message":"Event received: add_button_click Add button clicked: Task Added","traceId":"3ce38c2cbaa72d93f3fa7eeb1d7492a8"}
+{"level":"info","message":"Event received: add_button_click Add button clicked: Task Added","traceId":"e96f315302bf380891b51cf421bea965"}
+{"level":"info","message":"Event received: list_update List Updated: New task added","traceId":"110ab777131b0ff03a186e705dd5b8e9"}
+{"level":"info","message":"Event received: list_update List Updated: New task added","traceId":"35734db47a5d1fe925a910738efe7a03"}
+{"level":"info","message":"Event received: add_button_click Add button clicked: Task Added","traceId":"9cd8a1ac8361c44fdd925f848a8a25a8"}
+{"level":"info","message":"Event received: list_update List Updated: Task removed","traceId":"b749ec13e059fa777aaa2e5b99f03806"}
+{"level":"info","message":"Event received: delete_button_click Delete button clicked: Task Deleted","traceId":"42c9735886781409c6b588045d18ec3b"}
